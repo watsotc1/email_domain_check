@@ -1,0 +1,14 @@
+{
+	"domains_to_test":[
+			"aol-support.com", 
+			"att.com", 
+			"comcast2.com", 
+			"facebook3.com", 
+			"google-us.com", 
+			"msn-2.com",
+			"live1.com", 
+			"verizon.com",
+			"hotmail.com", 
+			"hotmail.co.uk"			
+	]
+}
